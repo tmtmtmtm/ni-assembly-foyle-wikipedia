@@ -1,0 +1,83 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q28867747,Elisha McCallion,Q76382,Sinn Féin,9205,Q28231972,2017 Assembly election,1
+,Q2134210,Raymond McCartney,Q76382,Sinn Féin,8608.76,Q28231972,2017 Assembly election,2
+,Q5149523,Colum Eastwood,Q175443,Social Democratic and Labour Party,7595.30,Q28231972,2017 Assembly election,3
+,Q6767859,Mark H. Durkan,Q175443,Social Democratic and Labour Party,8413.68,Q28231972,2017 Assembly election,4
+,Q21130106,Gary Middleton,Q215519,Democratic Unionist Party,7036.37,Q28231972,2017 Assembly election,5
+,Q2904605,Eamonn McCann,Q3545406,People Before Profit Alliance,6373.16,Q28231972,2017 Assembly election,6
+Q98273354,,Julia Kee,Q841045,Ulster Unionist Party,1704.50,Q28231972,2017 Assembly election,7
+Q98273336,,Colm Cavanagh,Q244927,Alliance Party of Northern Ireland,1295.22,Q28231972,2017 Assembly election,8
+,,Shannon Downey,Q1096979,Green Party of Northern Ireland,264.42,Q28231972,2017 Assembly election,9
+,,John Lindsay,Q19903723,Cannabis Is Safer Than Alcohol,225.45,Q28231972,2017 Assembly election,10
+,,Stuart Canning,Q7058484,Northern Ireland Conservatives,78.90,Q28231972,2017 Assembly election,11
+,,Arthur McGuinness,Q327591,Independent (politician),56.35,Q28231972,2017 Assembly election,12
+,Q21130106,Gary Middleton,Q215519,Democratic Unionist Party,6641,Q16973450,2016 Assembly election,1
+,Q2134210,Raymond McCartney,Q76382,Sinn Féin,5676,Q16973450,2016 Assembly election,2
+,Q6767859,Mark H. Durkan,Q175443,Social Democratic and Labour Party,6905,Q16973450,2016 Assembly election,3
+,Q5149523,Colum Eastwood,Q175443,Social Democratic and Labour Party,5804,Q16973450,2016 Assembly election,4
+,Q57689,Martin McGuinness,Q76382,Sinn Féin,5712,Q16973450,2016 Assembly election,5
+,Q2904605,Eamonn McCann,Q3545406,People Before Profit Alliance,5394,Q16973450,2016 Assembly election,6
+,,Dr. Anne McCloskey,Q327591,Independent politician,4227,Q16973450,2016 Assembly election,7
+,Q22004073,Gerard Diver,Q175443,Social Democratic and Labour Party,3249,Q16973450,2016 Assembly election,8
+,Q6729407,Maeve McLaughlin,Q76382,Sinn Féin,3114,Q16973450,2016 Assembly election,9
+Q98273354,,Julia Kee,Q841045,Ulster Unionist Party,1484,Q16973450,2016 Assembly election,10
+,Q18358115,Maurice Devenney,Q327591,Independent politician,1213,Q16973450,2016 Assembly election,11
+,,Kathleen Bradley,Q327591,Independent politician,928,Q16973450,2016 Assembly election,12
+,,John Lindsay,Q19903723,Cannabis Is Safer Than Alcohol,259,Q16973450,2016 Assembly election,13
+Q76130654,,Chris McCaw,Q244927,Alliance Party of Northern Ireland,238,Q16973450,2016 Assembly election,14
+,,Mary Hassan,Q1096979,Green Party of Northern Ireland,157,Q16973450,2016 Assembly election,15
+Q98269714,,Alan Dunlop,Q7058484,Northern Ireland Conservatives,36,Q16973450,2016 Assembly election,16
+,Q8011049,William Hay,Q215519,Democratic Unionist Party,7154,Q7058474,2011 Assembly election,1
+,Q4992676,Martina Anderson,Q76382,Sinn Féin,6950,Q7058474,2011 Assembly election,2
+,Q6767859,Mark H. Durkan,Q175443,Social Democratic and Labour Party,5794,Q7058474,2011 Assembly election,3
+,Q2134210,Raymond McCartney,Q76382,Sinn Féin,6245,Q7058474,2011 Assembly election,4
+,Q5149523,Colum Eastwood,Q175443,Social Democratic and Labour Party,5563,Q7058474,2011 Assembly election,5
+,Q7143946,Pat Ramsey,Q175443,Social Democratic and Labour Party,4876,Q7058474,2011 Assembly election,6
+,Q2904605,Eamonn McCann,Q3545406,People Before Profit Alliance,3916,Q7058474,2011 Assembly election,7
+,,Paul Fleming,Q76382,Sinn Féin,3615,Q7058474,2011 Assembly election,8
+,Q7264774,Pól Callaghan,Q175443,Social Democratic and Labour Party,2891,Q7058474,2011 Assembly election,9
+,,Paul McFadden,Q327591,Independent politician,1353,Q7058474,2011 Assembly election,10
+Q98273355,,Keith McGrellis,Q244927,Alliance Party of Northern Ireland,621,Q7058474,2011 Assembly election,11
+,,Terry Doherty,Q327591,Independent politician,82,Q7058474,2011 Assembly election,12
+,Q8011049,William Hay,Q215519,Democratic Unionist Party,6960,Q2562399,2007 Assembly election,1
+,Q302620,Mark Durkan,Q175443,Social Democratic and Labour Party,6401,Q2562399,2007 Assembly election,2
+,Q4992676,Martina Anderson,Q76382,Sinn Féin,5972.04,Q2562399,2007 Assembly election,3
+,Q2134210,Raymond McCartney,Q76382,Sinn Féin,7275.40,Q2562399,2007 Assembly election,4
+,Q7143946,Pat Ramsey,Q175443,Social Democratic and Labour Party,5395.99,Q2562399,2007 Assembly election,5
+,Q6779108,Mary Bradley,Q175443,Social Democratic and Labour Party,4418.57,Q2562399,2007 Assembly election,6
+,Q5703013,Helen Quigley,Q175443,Social Democratic and Labour Party,4314.05,Q2562399,2007 Assembly election,7
+,,Lynn Fleming,Q76382,Sinn Féin,3240.24,Q2562399,2007 Assembly election,8
+,,Peter Munce,Q841045,Ulster Unionist Party,2920.56,Q2562399,2007 Assembly election,9
+,Q2904605,Eamonn McCann,Q3545406,Socialist Environmental Alliance,2775.04,Q2562399,2007 Assembly election,10
+,Q733866,Peggy O'Hara,Q16847164,Independent Republican (Ireland),1811.68,Q2562399,2007 Assembly election,11
+,,Adele Corry,Q1096979,Green Party of Northern Ireland,365.56,Q2562399,2007 Assembly election,12
+Q98266544,,Yvonne Boyle,Q244927,Alliance Party of Northern Ireland,231.52,Q2562399,2007 Assembly election,13
+,Q8021514,Willie Frazer,Q6017344,Independent Unionist,99.72,Q2562399,2007 Assembly election,14
+,Q302620,Mark Durkan,Q175443,Social Democratic and Labour Party,6806,Q2076187,2003 Assembly election,1
+,Q8011049,William Hay,Q215519,Democratic Unionist Party,6101,Q2076187,2003 Assembly election,2
+,Q6881061,Mitchel McLaughlin,Q76382,Sinn Féin,6036,Q2076187,2003 Assembly election,3
+,Q6779108,Mary Bradley,Q175443,Social Democratic and Labour Party,5930.63,Q2076187,2003 Assembly election,4
+,Q7143946,Pat Ramsey,Q175443,Social Democratic and Labour Party,5764.20,Q2076187,2003 Assembly election,5
+,Q6780408,Mary Nelis,Q76382,Sinn Féin,4351.27,Q2076187,2003 Assembly election,6
+,Q2134210,Raymond McCartney,Q76382,Sinn Féin,4342.80,Q2076187,2003 Assembly election,7
+,,Mary Hamilton,Q841045,Ulster Unionist Party,3805.01,Q2076187,2003 Assembly election,8
+,Q2904605,Eamonn McCann,Q3545406,Socialist Environmental Alliance,2586.03,Q2076187,2003 Assembly election,9
+,Q22004073,Gerard Diver,Q175443,Social Democratic and Labour Party,2152.55,Q2076187,2003 Assembly election,10
+,Q4769268,Annie Courtney,Q327591,Independent (politician),845.57,Q2076187,2003 Assembly election,11
+Q98270605,,Alan Castle,Q244927,Alliance Party of Northern Ireland,233.26,Q2076187,2003 Assembly election,12
+,,Danny McBrearty,Q327591,Independent (politician),141.55,Q2076187,2003 Assembly election,13
+,Q193630,John Hume,Q175443,Social Democratic and Labour Party,12581,Q2076208,1998 Assembly election,1
+,Q6881061,Mitchel McLaughlin,Q76382,Sinn Féin,7042.90,Q2076208,1998 Assembly election,2
+,Q302620,Mark Durkan,Q175443,Social Democratic and Labour Party,6979.90,Q2076208,1998 Assembly election,3
+,Q6260828,John Tierney,Q175443,Social Democratic and Labour Party,7812.60,Q2076208,1998 Assembly election,4
+,Q6780408,Mary Nelis,Q76382,Sinn Féin,7171.85,Q2076208,1998 Assembly election,5
+,Q8011049,William Hay,Q215519,Democratic Unionist Party,6322.25,Q2076208,1998 Assembly election,6
+,Q6110990,Jack Allen,Q841045,Ulster Unionist Party,5698.25,Q2076208,1998 Assembly election,7
+,Q4769268,Annie Courtney,Q175443,Social Democratic and Labour Party,3843.05,Q2076208,1998 Assembly election,8
+Q98273346,,Gearóid Ó Heára,Q76382,Sinn Féin,2733.55,Q2076208,1998 Assembly election,9
+,,Lynn Fleming,Q76382,Sinn Féin,1530.80,Q2076208,1998 Assembly election,10
+Q98273336,,Colm Cavanagh,Q244927,Alliance Party of Northern Ireland,1347.35,Q2076208,1998 Assembly election,11
+,,Ken Adams,Q6467508,Labour Party of Northern Ireland,403.95,Q2076208,1998 Assembly election,12
+,,Brian Gurney,Q1817613,Progressive Unionist Party,305,Q2076208,1998 Assembly election,13
+,,Peter MacKenzie,Q1096979,Green Party of Northern Ireland,294.85,Q2076208,1998 Assembly election,14
+Q98273341,,Donn Brennan,Q491782,Natural Law Party,36.50,Q2076208,1998 Assembly election,15
